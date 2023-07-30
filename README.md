@@ -1,13 +1,9 @@
 # Hype Trophy Web Application
 An application that tracks all of your workout progress and helps you get bigger and stronger using progressive overload.
 
-```
-
-## Stage 1: Firebase (Current Stage)
+## Stage 1: Firebase 
+### Current Stage
 Create a temporary application to understand how to properly integrate firebase/firestore
-
-
-```
 
 ## Stage 2: Alpha
 Get a working alpha
